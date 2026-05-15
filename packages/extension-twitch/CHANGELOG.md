@@ -1,5 +1,11 @@
 # @tiptap/extension-twitch
 
+## 3.23.5
+
+### Patch Changes
+
+- @tiptap/core@3.23.5
+
 ## 3.23.4
 
 ### Patch Changes

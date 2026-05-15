@@ -1,5 +1,14 @@
 # @tiptap/extension-drag-handle-react
 
+## 3.23.5
+
+### Patch Changes
+
+- ec1afc3: Fix missing forwarding of getReferencedVirtualElement in DragHandle React component
+  - @tiptap/extension-drag-handle@3.23.5
+  - @tiptap/pm@3.23.5
+  - @tiptap/react@3.23.5
+
 ## 3.23.4
 
 ### Patch Changes

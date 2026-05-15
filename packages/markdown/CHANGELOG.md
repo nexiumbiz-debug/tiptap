@@ -1,5 +1,13 @@
 # @tiptap/markdown
 
+## 3.23.5
+
+### Patch Changes
+
+- 6abd10c: Fix extra mark tokens after inline atom nodes during Markdown serialization
+  - @tiptap/core@3.23.5
+  - @tiptap/pm@3.23.5
+
 ## 3.23.4
 
 ### Patch Changes
